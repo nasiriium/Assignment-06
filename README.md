@@ -1,6 +1,6 @@
 # Assignment-06
  1) What is the difference between var, let, and const?
- Answer: var - This is the old way. When you make variable with var, it works in whole function or globally. You can change the value and even declare it again with same name. 
+ Answer: var - This is the old way. When we make variable with var, it works in whole function or globally. We can change the value and even declare it again with same name. 
          let - This is newer from ES6. The difference is "block scope" - means it only works inside the curly braces {} where we created it. We can change its value later, but we cannot declare same variable name    twice in same scope.
          const-Also from ES6 with block scope like let. The main thing is we cannot change value after we set it.
 2) What is the difference between map(), forEach(), and filter()?
