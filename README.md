@@ -20,3 +20,4 @@ b) Multi-line strings - We can write strings across multiple lines without speci
 c) Can include expressions - Not just variables, we can do calculations inside: `Total: ${price * quantity}`​
 d) No escaping quotes - We can use both ' and " inside without problems
 
+CODE:Ass6&Date-22/9&Marks50 
